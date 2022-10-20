@@ -3,6 +3,7 @@
 - 🔭 I’m currently working as a Android Developer
 - 🌱 Mostly rolling around in FinTech area
 - 📫 How to reach me: snorsnor9998@gmail.com
+- 🎮 Discord: SnorSnor9998#2126
 - 😄 Pronouns: Snor
 - ⚡ Fun fact: </br>
 Due to some reason most of my repo are private so my github profile is somehow "useless" for reference </br>
