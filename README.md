@@ -1,6 +1,6 @@
 ### Hi there, Snor here👋
 
-- 🔭 I’m currently working as a Android Developer
+- 🔭 I’m currently working as a Android Developer & Backend
 - 🌱 Mostly rolling around in FinTech area
 - 📫 How to reach me: snorsnor9998@gmail.com
 - 🎮 Discord: SnorSnor9998#2126
